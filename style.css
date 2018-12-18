@@ -1,8 +1,9 @@
-section{
+section {
     margin: auto;    
     width: 625px;
 }
-article{
+
+article {
     display: block;
     font-family: 'Roboto', serif;
     font-weight: 400;
@@ -12,10 +13,12 @@ article{
     background-repeat: no-repeat;
     padding-left: 25px;
 }
-div{
+
+div {
     height: 40px;
 }
-h1{
+
+h1 {
     display: inline-block;
     font-family: 'Merriweather', serif;
     font-weight: 900;
@@ -25,7 +28,8 @@ h1{
     font-size: 25px;
     text-align: end;
 }
-button{
+
+button {
     display: inline-block;
     font-family: 'Trebuchet MS', Arial, sans-serif;
     color: white;
@@ -39,7 +43,8 @@ button{
     padding-left: 15px;
     margin-right: 5px;
 }
-p{
+
+p {
     display: inline-block;
     font-size: 13px;
     width: 515px;
@@ -47,12 +52,14 @@ p{
     height: 60px;
     line-height: 18px;
 }
-#article1{
+
+#article1 {
     background-image: url(./resources/žuta.jpg);
 }
-#article2{
+#article2 {
     background-image: url(./resources/roza.jpg);
 }
-#article3{
+
+#article3 {
     background-image: url(./resources/telefon.jpg);
 }
