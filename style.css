@@ -1,0 +1,40 @@
+article{
+    display: block;
+    margin: auto;
+    font-family: 'Roboto', serif;
+    font-weight: 400;
+    color: white;
+    background-size: cover;
+    padding: 30px 100px 25px 25px;
+    margin-bottom: 25px;
+    width: 625px;
+}
+h1{
+    display: inline-block;
+    font-family: 'Merriweather', serif;
+    font-weight: 900;
+}
+button{
+    display: inline-block;
+    color: white;
+    font-weight: 900;
+    background-color: rgba(189, 188, 188, 0.4);
+    border-style: none;
+    border-radius: 20px;
+    font-size: 12px;
+    padding: 6px;
+    margin: 10px;
+}
+p{
+    display: inline-block;
+    font-size: 12px;
+}
+#article1{
+    background-image: url(./resources/žuta.jpg);
+}
+#article2{
+    background-image: url(./resources/roza.jpg);
+}
+#article3{
+    background-image: url(./resources/telefon.jpg);
+}
