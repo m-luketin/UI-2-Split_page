@@ -1,0 +1,72 @@
+body {
+    font-family: 'Roboto', serif;
+}   
+
+section {
+    margin:auto;    
+    width: 625px;
+    background-color: lightgray;
+    color: white;
+}
+
+article {
+    display: block;
+    font-weight: 400;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-bottom: 25px solid transparent;
+}
+
+h3 {
+    display: inline-block;
+    font-family: 'Merriweather', serif;
+    font-weight: 900;
+    font-size: 25px; 
+    border-top: 30px solid transparent;
+    border-bottom: 15px solid transparent;
+    border-left: 25px solid transparent;
+    margin: 0px;
+}
+
+p {
+    font-size: 13px;
+    width: 515px;
+    opacity: 0.8;
+    line-height: 18px;
+    margin: 0px;
+    border-left: 25px solid transparent;
+    border-bottom: 30px solid transparent;
+}
+
+.firstButtonRow {
+    border-bottom: 10px solid transparent;
+    border-left: 25px solid transparent;
+}
+
+.secondButtonRow {
+    border-bottom: 25px solid transparent;
+    border-left: 25px solid transparent;
+}
+
+button {
+    padding: 0px;
+    background-color: rgba(189, 188, 188, 0.4);
+    color: white;
+    border-radius: 15px;;
+    font-size: 13px;
+    border-width: 7px 17px;
+    border-style: solid;
+    border-color: rgba(189, 188, 188, 0.2);
+}
+
+.yellowBackground {
+    background-image: url(./resources/žuta.jpg);
+}
+
+.pinkBackground {
+    background-image: url(./resources/roza.jpg);
+}
+
+.greyBackground {
+    background-image: url(./resources/telefon.jpg);
+}

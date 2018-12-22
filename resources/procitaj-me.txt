@@ -1,0 +1,10 @@
+link: https://fonts.googleapis.com/css?family=Merriweather:900|Roboto
+
+naslovi:
+debljina: 900
+upotreba: font-family: 'Merriweather', serif;
+
+tekst:
+debljina: 400
+upotreba: font-family: 'Roboto', serif;
+
